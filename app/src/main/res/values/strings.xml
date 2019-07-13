@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpotPoc</string>
+    <string name="login">Login</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_con_password">Confirm Password</string>
+
+    <string name="msg_enter_credentials">Enter email and username!</string>
+    <string name="lbl_create_account">Don\'t have an account? Sign Up here.</string>
+
+    <string name="lbl_existing_account">Already have an account? Login here</string>
+    <string name="register">Register</string>
+    <string name="hint_name">Name</string>
+    <string name="mobile">Mobile</string>
+
+    <string name="msg_fill_the_form">Please fill the form!</string>
+    <string name="msg_unknown">Unknown error occurred! Please try again. Check Android Studio\'s LogCat for detailed error report.</string>
+    <string name="error">Error</string>
+
+
+</resources>
